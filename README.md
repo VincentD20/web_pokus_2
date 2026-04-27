@@ -1,1 +1,3 @@
-# web_pokus_2
+- téma
+- mapa stránek
+- min 10 stránek
